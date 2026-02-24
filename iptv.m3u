@@ -1,4 +1,4 @@
-http://183.184.48.46:9003/hls/42/index.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://gh.650070.xyz/raw.githubusercontent.com/kiss-liu/tv/refs/heads/main/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://183.184.48.176:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh.650070.xyz/raw.githubusercontent.com/kiss-liu/tv/refs/heads/main/logo/CCTV1.png" group-title="央视频道",CCTV1
@@ -158,7 +158,7 @@ http://183.184.48.46:9003/hls/39/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh.650070.xyz/raw.githubusercontent.com/kiss-liu/tv/refs/heads/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://183.184.48.46:9003/hls/40/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh.650070.xyz/raw.githubusercontent.com/kiss-liu/tv/refs/heads/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
-
+http://183.184.48.176:9003/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1综合
 http://171.11.67.47:5000/608807420
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2财经
@@ -214,7 +214,7 @@ http://171.11.67.47:5000/624878970
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/355/202405081702_1715158115119_H32_1080.webp" group-title="央视",中学生
 http://171.11.67.47:5000/708869532
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/196/407/202204010052_1642124778350_H32_1080.webp" group-title="央视",CGTN
-http://171.11.67.47:5000/962067526
+http://171.11.67.47:5000/609017205
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
 http://171.11.67.47:5000/651632648
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视",江苏卫视
@@ -326,3 +326,4 @@ http://171.11.67.47:5000/962067517
 #EXTINF:-1 tvg-id="宁夏广播电视台文旅频道" tvg-name="宁夏广播电视台文旅频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202512311920_1766735094938_H32_1080.webp" group-title="地方",宁夏广播电视台文旅频道
 http://171.11.67.47:5000/962067523
 #EXTINF:-1 tvg-id="宁夏广播电视台经济频道" tvg-name="宁夏广播电视台经济频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/327/202512311920_1766734845550_H32_1080.webp" group-title="地方",宁夏广播电视台经济频道
+http://171.11.67.47:5000/962067520
